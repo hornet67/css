@@ -1,0 +1,25 @@
+form{
+	background-color: lightskyblue;
+	height: 500px;
+	
+	width: 500px;
+	border: 5px solid tomato;
+	
+
+}
+
+div{
+ padding: 20px;
+ margin-right: 20px;
+text-align: justify;
+
+}
+
+.l{
+	background-color: darkkhaki;
+}
+
+
+.b{
+	color: red;
+}
